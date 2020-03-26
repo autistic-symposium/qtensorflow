@@ -1,8 +1,14 @@
-  
-name: PyStyle
+name: Pystyle
 
-on: [pull_request, issues]
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
-  - name: Python Style Checker
-    uses: andymckay/pycodestyle-action@0.1.3
+   build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Python Style Checker
+      uses: andymckay/pycodestyle-action@0.1.3
