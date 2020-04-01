@@ -1,0 +1,2 @@
+cirq==0.7.0
+tensorflow==2.1.0
