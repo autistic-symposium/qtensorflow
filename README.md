@@ -7,6 +7,7 @@
 * [Vagrant](https://www.vagrantup.com/).
 * [Virtual Box](https://www.virtualbox.org/).
 * [MiniKF](https://www.kubeflow.org/docs/other-guides/virtual-dev/getting-started-minikf/).
+* [TensorFlow Quantum](https://github.com/tensorflow/quantum/blob/master/docs/install.md).
 
 
 
