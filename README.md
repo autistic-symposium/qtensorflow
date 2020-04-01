@@ -2,12 +2,6 @@
 
 ![Python application](https://github.com/bt3gl/Quantum_Machine_Learning/workflows/Python%20application/badge.svg) ![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 
-
-
-# Tensorflow Quantum on KubeFlow
-
-![Python application](https://github.com/bt3gl/Quantum_Machine_Learning/workflows/Python%20application/badge.svg) ![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
-
 * Machine learning (ML), while it doesn’t exactly simulate systems in nature, has the ability to learn a model of a system and predict the system’s behavior. O
 
 * With the recent progress in the development of quantum computing, the development of new quantum ML models could have a profound impact on the world’s biggest problems, leading to breakthroughs in the areas of medicine, materials, sensing, and communications.
