@@ -1,4 +1,4 @@
-# Tensorflow Quantum on KubeFlow
+# Tensorflow Quantum + K8s
 
 ![Python application](https://github.com/bt3gl/Quantum_Machine_Learning/workflows/Python%20application/badge.svg) ![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 
@@ -65,8 +65,9 @@
 
 * [Vagrant](https://www.vagrantup.com/).
 * [Virtual Box](https://www.virtualbox.org/).
-* [MiniKF](https://www.kubeflow.org/docs/other-guides/virtual-dev/getting-started-minikf/).
+* [Kubeflow and MiniKF](https://www.kubeflow.org/docs/other-guides/virtual-dev/getting-started-minikf/).
 * [TensorFlow Quantum](https://github.com/tensorflow/quantum/blob/master/docs/install.md).
+
 
 ----
 
