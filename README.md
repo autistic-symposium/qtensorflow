@@ -21,6 +21,7 @@
 * A key feature of TensorFlow Quantum is the ability to simultaneously train and execute many quantum circuits. This is achieved by TensorFlow’s ability to parallelize computation across a cluster of computers, and the ability to simulate relatively large quantum circuits on multi-core computers. 
 
 --- 
+
 ## Steps:
 
 ### Prepare a quantum dataset
