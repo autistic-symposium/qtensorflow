@@ -1,4 +1,4 @@
-# PoC: K8s Quantum Tensorflow Machine Learning deployment in K8s
+# 🍒 PoC: Quantum Tensorflow Machine Learning deployment in K8s
 
 <br>
 
