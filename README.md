@@ -1,5 +1,6 @@
-# Tensorflow Quantum + K8s
+# PoC: K8s Quantum Tensorflow Machine Learning deployment in K8s
 
+<br>
 
 ## Theoretical Introduction
 
@@ -21,6 +22,8 @@
 * A key feature of TensorFlow Quantum is the ability to simultaneously train and execute many quantum circuits. This is achieved by TensorFlow’s ability to parallelize computation across a cluster of computers, and the ability to simulate relatively large quantum circuits on multi-core computers. 
 
 --- 
+
+<br>
 
 ## Steps:
 
@@ -57,7 +60,7 @@
 - After evaluating the cost function, the free parameters in the pipeline should be updated in a direction expected to decrease the cost.
 - This is most commonly performed via gradient descent.
 
-
+<br>
 
 -----
 
@@ -68,6 +71,8 @@
 * [Kubeflow and MiniKF](https://www.kubeflow.org/docs/other-guides/virtual-dev/getting-started-minikf/).
 * [TensorFlow Quantum](https://github.com/tensorflow/quantum/blob/master/docs/install.md).
 
+
+<br>
 
 ----
 
