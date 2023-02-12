@@ -2,7 +2,7 @@
 
 <br>
 
-#### 👉 this repository contains my work deploying a quantum computing version of tensorflow in kubernets.
+#### 👉 this repository contains my work deploying a quantum computing version of tensorflow in kubernetes.
 
 <br>
 
