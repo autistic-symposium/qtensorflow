@@ -1,4 +1,4 @@
-## ⚛️🔋 QuantumFlow: Quantum Computin Tensorflow in K8s
+## ⚛️🔋 Quantum Computing Tensorflow in K8s
 
 <br>
 
