@@ -87,10 +87,4 @@
 
 <br>
 
-----
-
-### References
-
-<br>
-
-* [Announcing TensorFlow Quantum: An Open Source Library for Quantum Machine Learning](https://ai.googleblog.com/2020/03/announcing-tensorflow-quantum-open.html).
+-
