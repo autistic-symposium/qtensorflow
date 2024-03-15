@@ -2,7 +2,7 @@
 
 <br>
 
-#### 👉 this repository contains my work deploying a quantum computing version of tensorflow in kubernetes.
+### 👉 this repository contains my work deploying a quantum computing version of tensorflow in kubernetes.
 
 <br>
 
@@ -85,6 +85,3 @@
 * [TensorFlow Quantum](https://github.com/tensorflow/quantum/blob/master/docs/install.md).
 
 
-<br>
-
--
